@@ -1,0 +1,11 @@
+Match_ID,Team,Opponent,Runs,Wickets,Result,Player_of_Match
+1,CSK,MI,182,6,Win,Dhoni
+2,RCB,KKR,165,8,Loss,Russell
+3,MI,CSK,176,7,Loss,Jadeja
+4,KKR,RCB,190,5,Win,Russell
+5,RR,DC,172,6,Win,Buttler
+6,DC,RR,168,8,Loss,Samson
+7,SRH,PBKS,201,4,Win,Klaasen
+8,PBKS,SRH,180,7,Loss,Cummins
+9,GT,LSG,158,9,Win,Gill
+10,LSG,GT,149,10,Loss,Rashid
